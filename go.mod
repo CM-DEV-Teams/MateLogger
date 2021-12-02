@@ -1,3 +1,3 @@
-module mate-logger
+module matelogger
 
 go 1.17

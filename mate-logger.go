@@ -1,4 +1,4 @@
-package mate-logger
+package matelogger
 
 import (
 	"fmt"
